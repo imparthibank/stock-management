@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/StockManagement/bin/Debug/net6.0
+/.vs
+/StockManagement/obj
+/StockManagement/Properties
+/StockManagement.Application.Tests/bin
+/StockManagement.Application.Tests/obj
+/StockManagement.PlayGround/bin/Debug/net6.0
+/StockManagement.PlayGround/obj
